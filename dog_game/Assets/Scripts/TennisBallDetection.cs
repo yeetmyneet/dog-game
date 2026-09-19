@@ -6,7 +6,7 @@ using TMPro;
 
 public class TennisBallDetection : MonoBehaviour
 {
-    [SerializeField] float levelLoadDelay = 3f;
+    [SerializeField] float levelLoadDelay = 1f;
     [SerializeField] bool isLastLevel = false;
     [SerializeField] float ballCount;
     [SerializeField] float fpsCount = 60;
